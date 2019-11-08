@@ -1,0 +1,16 @@
+{
+  "name": "scenario-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "dependencies": {
+    "mdx-deck": "^3.0.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "./node_modules/.bin/mdx-deck deck.mdx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
